@@ -1,0 +1,9 @@
+.alx_subscribe_form
+{
+	padding: 0px;
+	margin: 0px;
+}
+.alx_subscribe_form .alx_subscribe_tbl td
+{
+	padding: 2px;
+}

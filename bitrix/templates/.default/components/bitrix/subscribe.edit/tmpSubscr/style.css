@@ -1,0 +1,110 @@
+div.subscribe-edit .red {
+	color:red;
+}
+div.subscribe-edit .green {
+	color:green;
+}
+div.subscribe-edit .errorcolor {
+	color:red;
+}
+div.subscribe-edit .successcolor {
+	color:green;
+}
+.subscr_checkbox {
+	margin-bottom: 10px;
+	margin-right: 3px;
+}
+.subscr_input {
+	margin-bottom: 10px;
+}
+.subscribe-edit input.subscr_submit
+{	
+	border: 1px solid hsl(0, 0%, 85%) !important;
+	background: #ededed; /* Old browsers */
+background: -moz-linear-gradient(top,  #ededed 0%, #e1e0de 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ededed), color-stop(100%,#e1e0de)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ededed 0%,#e1e0de 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#e1e0de',GradientType=0 ); /* IE6-9 */
+
+	color: black;
+	border: 1px;
+	display: block;
+	border-radius: 5px;
+	font-size: 11px;
+	font-weight: normal;
+	padding: 0px 12px;
+	line-height: 25px;
+	box-shadow: inset 0 1px 0 0 #FFFFFF !important;
+	-moz-box-shadow: inset 0 1px 0 0 #FFFFFF !important; 
+	-webkit-box-shadow: inset 0 1px 0 0 #FFFFFF !important;
+}
+
+.subscribe-edit input.subscr_submit:hover 
+{
+	background: #ededed; /* Old browsers */
+background: -moz-linear-gradient(top,  #ededed 0%, #e1e0de 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ededed), color-stop(100%,#e1e0de)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ededed 0%,#e1e0de 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ededed 0%,#e1e0de 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#e1e0de',GradientType=0 ); /* IE6-9 */
+
+}
+.subscribe-edit .subscr_input{
+	text-align: center;
+	border: 1px solid #000;
+	border-radius: 0px;
+	color: #000;
+	font-style: italic;
+	padding: 6px 7px 8px;
+}
+.subscribe-edit input[type="text"]{
+	border-radius: 0px;
+}
+
+
+input[type=checkbox].css-checkbox {
+	position:absolute; 
+	z-index:-1000; 
+	left:-1000px; 
+	overflow: hidden; 
+	clip: rect(0 0 0 0); 
+	height:1px; 
+	width:1px; 
+	margin:-1px; 
+	padding:0; 
+	border:0;
+}
+input[type=checkbox].css-checkbox + label.css-label {
+							padding-left:19px;
+							display: block;
+							margin-bottom: 4px;
+							margin-top: 5px;
+
+							height:14px; 
+							display:inline-block;
+							line-height:14px;
+							background-repeat:no-repeat;
+							background-position: 0 0;
+							font-size:14px;
+							vertical-align:middle;
+							cursor:pointer;
+}
+
+						input[type=checkbox].css-checkbox:checked + label.css-label {
+							background-position: 0 -14px;
+							color: #000;
+						}
+						label.css-label {
+				background-image:url(csscheckbox.png);
+				-webkit-touch-callout: none;
+				-webkit-user-select: none;
+				-khtml-user-select: none;
+				-moz-user-select: none;
+				-ms-user-select: none;
+				user-select: none;
+			}

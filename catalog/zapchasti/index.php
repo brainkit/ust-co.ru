@@ -6,9 +6,9 @@ $APPLICATION->SetTitle("Каталог");
 <div class="zapchasti"><? 
 $APPLICATION->IncludeComponent(
 	"bitrix:catalog", 
-	"zapchasti",  
+	"zapchasti", 
 	array(
-		"IBLOCK_TYPE" => "zapchasti",
+		"IBLOCK_TYPE" => "catalog",
 		"IBLOCK_ID" => "158",
 		"HIDE_NOT_AVAILABLE" => "N",
 		"SECTION_ID_VARIABLE" => "SECTION_ID",
@@ -18,7 +18,7 @@ $APPLICATION->IncludeComponent(
 		"AJAX_OPTION_JUMP" => "N",
 		"AJAX_OPTION_STYLE" => "Y",
 		"AJAX_OPTION_HISTORY" => "N",
-		"CACHE_TYPE" => "A",
+		"CACHE_TYPE" => "N",
 		"CACHE_TIME" => "36000000",
 		"CACHE_FILTER" => "Y",
 		"CACHE_GROUPS" => "N",
@@ -120,5 +120,24 @@ $APPLICATION->IncludeComponent(
 		)
 	),
 	false
+);
+      $APPLICATION->IncludeComponent(
+  "kuznica:metatags.keysautoset",
+  "",
+  Array(
+    "COMPONENT_MODE" => "2",
+    "IBLOCK_TYPE" => "zapchasti",
+    "IBLOCK_ID" => 158,
+    "CACHE_TYPE" => "N",
+    "CACHE_TIME" => "36000000",
+    "CACHE_NOTES" => "",
+    "ELEMENT_ID" => $_REQUEST["ELEMENT_ID"],
+    "SECTION_ID" => $_REQUEST["SECTION_ID"],
+    "ELEMENT_CODE" => $_REQUEST["ELEMENT_CODE"],
+    "SECTION_CODE" => $_REQUEST["SECTION_CODE"],
+    "COMPLEX_COMPONENT_PATH" => "/catalog/zapchasti/",
+    "COMPLEX_SECTION_PATH" => "#SECTION_CODE#/",
+    "COMPLEX_ELEMENT_PATH" => "#SECTION_CODE#/#ELEMENT_CODE#/"
+  )
 );
 ?></div><? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>

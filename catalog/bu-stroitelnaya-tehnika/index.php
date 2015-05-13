@@ -1,6 +1,7 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 //$APPLICATION->SetTitle("Б у строительная техника");
-?> <?  
+?> 
+ <?  
 $page = $APPLICATION->GetCurPage();
 $pieces = explode("/", $page);
 unset($pieces[0]); 
@@ -81,7 +82,11 @@ if($pieces[3] !== $ar_res['CODE'] && $pieces[3] !== 'index.php'){
 		"LIST_META_DESCRIPTION" => "-",
 		"LIST_BROWSER_TITLE" => "-",
 		"DETAIL_PROPERTY_CODE" => array(0=>"",1=>"",),
-		"GENERAL_PROPERTIES_LIST" => array("PHOTO","LOT","YEAR_OF_RELEASE","MTBF","LOCATION","CONTACTS","ENABLE_DETAILED_PAGE","DESCRIPTION_DETAILED_PAGE","VIDEO"),
+		"GENERAL_PROPERTIES_LIST" => array
+
+("PHOTO","LOT","YEAR_OF_RELEASE","MTBF","LOCATION","CONTACTS","ENABLE_DETAILED_PAGE","DESCRIPTION_DETAIL
+
+ED_PAGE","VIDEO"),
 		"DETAIL_META_KEYWORDS" => "-",
 		"DETAIL_META_DESCRIPTION" => "-",
 		"DETAIL_BROWSER_TITLE" => "-",
@@ -115,8 +120,7 @@ if($pieces[3] !== $ar_res['CODE'] && $pieces[3] !== 'index.php'){
 			),
 		)
 	)
-);?>
-<?
+);?> <?
 
 //проверка на 404 в хедере
     if (http_response_code() == "404") {
@@ -128,8 +132,7 @@ if($pieces[3] !== $ar_res['CODE'] && $pieces[3] !== 'index.php'){
     include($_SERVER["DOCUMENT_ROOT"] . SITE_TEMPLATE_PATH . "/footer.php");
 } 
 
-?>
-<?$APPLICATION->IncludeComponent(
+?> <?$APPLICATION->IncludeComponent(
 	"kuznica:metatags.keysautoset",
 	"",
 	Array(
@@ -146,9 +149,7 @@ if($pieces[3] !== $ar_res['CODE'] && $pieces[3] !== 'index.php'){
 		"COMPLEX_COMPONENT_PATH" => "/catalog/bu-stroitelnaya-tehnika/",
 		"COMPLEX_SECTION_PATH" => "#SECTION_CODE#/",
 		"COMPLEX_ELEMENT_PATH" => "#SECTION_CODE#/#ELEMENT_CODE#/"
-	),
-false
-);?>
-
- </div>
+	)
+);?> </div>
+ 
  <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

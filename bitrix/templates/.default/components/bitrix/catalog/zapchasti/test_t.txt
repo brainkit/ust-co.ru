@@ -1,0 +1,346 @@
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 999
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
+Array
+(
+    [0] => EUROMIX 60
+)
+Array
+(
+    [0] => EUROMIX 60
+    [1] => EUROMIX 61
+)
