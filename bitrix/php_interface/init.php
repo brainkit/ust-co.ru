@@ -1,4 +1,5 @@
 <?
+/*test*/
 
 session_start();
 // ?KEYSSID=c6e997d38cbf40970234883cebe6b4b7
